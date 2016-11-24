@@ -1,0 +1,22 @@
+/*
+ * Sean Saville - Visual Studio Code user settings
+ * Version-controlled at https://github.com/seansaville/preferences
+ */
+{
+    // Editor
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderLineHighlight": false,
+    "editor.selectionHighlight": false,
+
+    // Files
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "files.trimTrailingWhitespace": true,
+
+    // Telemetry (boo)
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
+}
