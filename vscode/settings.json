@@ -8,7 +8,7 @@
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
     "editor.renderIndentGuides": true,
-    "editor.renderLineHighlight": false,
+    "editor.renderLineHighlight": "none",
     "editor.selectionHighlight": false,
 
     // Files
